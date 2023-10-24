@@ -66,3 +66,28 @@ def normalized_dcg(relevance: List[float], k: int, method: str = "standard") -> 
     max_score = discounted_cumulative_gain(relevance, k=k, method=method)
 
     return score/max_score # the nDCG metric
+
+def avg_ndcg(list_relevances: List[List[float]], k: int, method: str = 'standard') -> float:
+    """Average nDCG
+
+    Parameters
+    ----------
+    list_relevances : `List[List[float]]`
+        Video relevance matrix for various queries
+    k : `int`
+        Count relevance to compute
+    method : `str`, optional
+        Metric implementation method, takes the values
+        `standard` - adds weight to the denominator
+        `industry` - adds weights to the numerator and denominator
+        `raise ValueError` - for any value
+
+    Returns
+    -------
+    score : `float`
+        Metric score
+    """
+
+    ndcg_list = [normalized_dcg(relevance, k, method) for relevance in list_relevances]
+    avg_score = np.mean(ndcg_list)
+    return avg_score

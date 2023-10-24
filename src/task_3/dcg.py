@@ -2,6 +2,7 @@
 from typing import List
 import numpy as np
 
+
 def discounted_cumulative_gain(relevance: List[float], k: int, method: str = "standard") -> float:
     """Discounted Cumulative Gain
 
@@ -36,33 +37,3 @@ def discounted_cumulative_gain(relevance: List[float], k: int, method: str = "st
     denominator = np.log2(1.0 + np.arange(1, len(relevance)+1))
     score = np.sum(np.divide(numerator, denominator))
     return score
-
-
-def normalized_dcg(relevance: List[float], k: int, method: str = "standard") -> float:
-    """Discounted Cumulative Gain
-
-    Parameters
-    ----------
-    relevance : `List[float]`
-        Video relevance list
-    k : `int`
-        Count relevance to compute
-    method : `str`, optional
-        Metric implementation method, takes the values
-        `standard` - adds weight to the denominator
-        `industry` - adds weights to the numerator and denominator
-        `raise ValueError` - for any value
-
-    Returns
-    -------
-    score : `float`
-        Metric score
-    """
-
-    # DCG for the input relevancy scores
-    score = discounted_cumulative_gain(relevance=relevance, k=k, method=method)
-    # Ideal DCG (for desc. sorted input)
-    relevance = sorted(relevance, reverse=True)
-    max_score = discounted_cumulative_gain(relevance, k=k, method=method)
-
-    return score/max_score # the nDCG metric
