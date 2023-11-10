@@ -13,15 +13,13 @@ def roc_auc_ci(
     n_bootstraps: int = 10_000,
 ) -> Tuple[float, float]:
     """Returns confidence bounds of the ROC-AUC"""
-    rng_seed = 42  # control reproducibility
-    rng = np.random.RandomState(rng_seed)
-
+   
     y_pred = classifier.predict_proba(X)[:, 1] # classifier predictions
     bootstrapped_scores = []
 
     for _ in range(n_bootstraps):
         # bootstrap by sampling with replacement on the prediction indices
-        indices = rng.randint(0, len(y_pred), len(y_pred))
+        indices = np.random.randint(0, len(y_pred), len(y_pred))
         if len(np.unique(y[indices])) < 2:
             # We need at least one positive and one negative sample for ROC AUC
             # to be defined: reject the sample
