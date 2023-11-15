@@ -23,7 +23,3 @@ def memoize(func: Callable) -> Callable:
 
         return cache[key]
     return wrapper
-
-
-if __name__ == '__main__':
-    print({True: 'yes', 1: 'no', 1.0: 'probably'})
