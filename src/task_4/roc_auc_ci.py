@@ -13,7 +13,7 @@ def roc_auc_ci(
     n_bootstraps: int = 10_000,
 ) -> Tuple[float, float]:
     """Returns confidence bounds of the ROC-AUC"""
-   
+
     y_pred = classifier.predict_proba(X)[:, 1] # classifier predictions
     bootstrapped_scores = []
 
