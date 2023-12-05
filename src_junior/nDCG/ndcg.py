@@ -39,7 +39,7 @@ def discounted_cumulative_gain(relevance: List[float], k: int, method: str = "st
 
 
 def normalized_dcg(relevance: List[float], k: int, method: str = "standard") -> float:
-    """Discounted Cumulative Gain
+    """Normalized Discounted Cumulative Gain
 
     Parameters
     ----------
