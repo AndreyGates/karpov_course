@@ -1,4 +1,4 @@
-# Setting ENV var for Java
+'''Setting ENV var for Java'''
 import os
 os.environ['JAVA_HOME'] = 'C:\Program Files\Java\jdk-21'
 
