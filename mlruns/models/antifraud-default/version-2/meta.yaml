@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702492157660
+current_stage: None
+description: null
+last_updated_timestamp: 1702492157660
+name: antifraud-default
+run_id: a1bc58eed75545879cb4e200bb889e4c
+run_link: null
+source: file:///C:/Users/pisar/Desktop/Development/Work/repos/karpov_course/mlruns/260254577527401069/a1bc58eed75545879cb4e200bb889e4c/artifacts/antifraud-default
+status: READY
+status_message: null
+storage_location: file:///C:/Users/pisar/Desktop/Development/Work/repos/karpov_course/mlruns/260254577527401069/a1bc58eed75545879cb4e200bb889e4c/artifacts/antifraud-default
+user_id: null
+version: 2

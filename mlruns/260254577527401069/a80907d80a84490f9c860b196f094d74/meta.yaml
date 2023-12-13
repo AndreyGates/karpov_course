@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pisar/Desktop/Development/Work/repos/karpov_course/mlruns/260254577527401069/a80907d80a84490f9c860b196f094d74/artifacts
+end_time: 1702457349471
+entry_point_name: ''
+experiment_id: '260254577527401069'
+lifecycle_stage: active
+run_id: a80907d80a84490f9c860b196f094d74
+run_name: trusting-skunk-179
+run_uuid: a80907d80a84490f9c860b196f094d74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702457349407
+status: 3
+tags: []
+user_id: pisar

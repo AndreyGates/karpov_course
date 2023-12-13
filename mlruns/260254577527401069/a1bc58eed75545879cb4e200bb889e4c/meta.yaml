@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pisar/Desktop/Development/Work/repos/karpov_course/mlruns/260254577527401069/a1bc58eed75545879cb4e200bb889e4c/artifacts
+end_time: 1702492157877
+entry_point_name: ''
+experiment_id: '260254577527401069'
+lifecycle_stage: active
+run_id: a1bc58eed75545879cb4e200bb889e4c
+run_name: selective-tern-460
+run_uuid: a1bc58eed75545879cb4e200bb889e4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702492144789
+status: 3
+tags: []
+user_id: pisar

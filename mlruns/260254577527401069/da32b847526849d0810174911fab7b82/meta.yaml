@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pisar/Desktop/Development/Work/repos/karpov_course/mlruns/260254577527401069/da32b847526849d0810174911fab7b82/artifacts
+end_time: 1702492516834
+entry_point_name: ''
+experiment_id: '260254577527401069'
+lifecycle_stage: active
+run_id: da32b847526849d0810174911fab7b82
+run_name: bold-conch-274
+run_uuid: da32b847526849d0810174911fab7b82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702492478714
+status: 3
+tags: []
+user_id: pisar

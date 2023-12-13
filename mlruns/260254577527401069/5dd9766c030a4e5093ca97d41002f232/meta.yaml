@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pisar/Desktop/Development/Work/repos/karpov_course/mlruns/260254577527401069/5dd9766c030a4e5093ca97d41002f232/artifacts
+end_time: 1702492085041
+entry_point_name: ''
+experiment_id: '260254577527401069'
+lifecycle_stage: active
+run_id: 5dd9766c030a4e5093ca97d41002f232
+run_name: intrigued-midge-107
+run_uuid: 5dd9766c030a4e5093ca97d41002f232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702492084345
+status: 3
+tags: []
+user_id: pisar
