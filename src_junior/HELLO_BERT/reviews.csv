@@ -1,0 +1,1001 @@
+review_id,dt,rating,sentiment,review
+1,27/04/11 04:00,5,positive,Good Quality Dog Food
+2,07/09/12 04:00,1,negative,Not as Advertised
+3,18/08/08 04:00,4,neutral,Delight says it all
+4,13/06/11 04:00,2,neutral,Cough Medicine
+5,21/10/12 04:00,5,positive,Great taffy
+6,12/07/12 04:00,4,neutral,Nice Taffy
+7,20/06/12 04:00,5,positive,Great!  Just as good as the expensive brands!
+8,03/05/12 04:00,5,positive,"Wonderful, tasty taffy"
+9,23/11/11 04:00,5,positive,Yay Barley
+10,26/10/12 04:00,5,positive,Healthy Dog Food
+11,08/02/05 03:00,5,positive,The Best Hot Sauce in the World
+12,27/08/10 04:00,5,positive,My cats LOVE this diet food better than their regular food
+13,13/06/12 04:00,1,negative,My Cats Are Not Fans of the New Food
+14,05/11/10 03:00,4,neutral,fresh and greasy!
+15,12/03/10 03:00,5,positive,Strawberry Twizzlers - Yummy
+16,29/12/09 03:00,5,positive,"Lots of twizzlers, just what you expect."
+17,20/09/12 04:00,2,neutral,poor taste
+18,16/08/12 04:00,5,positive,Love it!
+19,23/12/11 04:00,5,positive,GREAT SWEET CANDY!
+20,08/10/11 04:00,5,positive,Home delivered twizlers
+21,16/08/11 04:00,5,positive,Always fresh
+22,25/06/11 04:00,5,positive,TWIZZLERS
+23,09/05/11 04:00,5,positive,Delicious product!
+24,04/05/11 04:00,5,positive,Twizzlers
+25,20/01/11 03:00,5,positive,Please sell these in Mexico!!
+26,29/10/10 04:00,5,positive,Twizzlers - Strawberry
+27,25/03/12 04:00,1,negative,Nasty No flavor
+28,16/03/12 04:00,4,neutral,Great Bargain for the Price
+29,05/06/12 04:00,5,positive,YUMMY!
+30,08/02/05 03:00,5,positive,The Best Hot Sauce in the World
+31,14/02/11 03:00,5,positive,Great machine!
+32,29/10/10 04:00,5,positive,THIS IS MY TASTE...
+33,13/11/06 03:00,4,neutral,Best of the Instant Oatmeals
+34,17/12/06 03:00,4,neutral,Good Instant
+35,30/03/07 04:00,5,positive,Great Irish oatmeal for those in a hurry!
+36,11/05/08 04:00,4,neutral,satisfying
+37,27/09/07 04:00,5,positive,Love Gluten Free Oatmeal!!!
+38,31/03/09 04:00,5,positive,its oatmeal
+39,21/10/12 04:00,4,neutral,GOOD WAY TO START THE DAY....
+40,28/09/11 04:00,5,positive,Wifes favorite Breakfast
+41,22/04/11 04:00,5,positive,Why wouldnt you buy oatmeal from Mcanns? Tastes great!
+42,07/04/11 04:00,5,positive,Oatmeal For Oatmeal Lovers
+43,14/10/10 04:00,5,positive,Food-Great
+44,13/10/09 04:00,5,positive,Good Hot Breakfast
+45,02/05/08 04:00,5,positive,Great taste and convenience
+46,11/03/08 03:00,3,neutral,Hearty Oatmeal
+47,19/10/07 04:00,5,positive,good
+48,12/01/08 03:00,3,neutral,Mushy
+49,07/10/07 04:00,4,neutral,Very good but next time I wont order the Variety Pack
+50,10/04/12 04:00,3,neutral,Same stuff
+51,19/02/08 03:00,1,negative,Dont like it
+52,02/06/09 04:00,5,positive,HOT!  And good!  Came back for more  :)
+53,29/09/12 04:00,4,neutral,Youll go nuts over Ass-Kickin Peanuts.
+54,02/07/10 04:00,3,neutral,not ass kickin
+55,28/11/11 04:00,4,neutral,Roasts up a smooth brew
+56,05/10/12 04:00,5,positive,Our guests love it!
+57,28/11/11 04:00,5,positive,Awesome Deal!
+58,05/05/12 04:00,5,positive,How can you go wrong!
+59,04/11/11 04:00,5,positive,Awsome - Kids in neighborhood loved us!
+60,01/11/11 04:00,5,positive,great deal.
+61,16/10/11 04:00,3,neutral,Better price for this at Target
+62,24/10/11 04:00,5,positive,pretty expensive
+63,06/07/08 04:00,1,negative,stale product.
+64,04/04/12 04:00,5,positive,Hammer Nutrition s Fizz Rocks!
+65,05/04/12 04:00,5,positive,great source of electrolytes
+66,12/03/12 04:00,5,positive,Great for preventing cramps
+67,17/08/12 04:00,5,positive,Low Carb Alternative to Gatorade
+68,31/05/12 04:00,2,neutral,Taste is not so good.
+69,20/01/07 03:00,3,neutral,How much would you pay for a bag of chocolate pretzels?
+70,30/07/07 04:00,5,positive,pretzel haven!
+71,01/10/09 04:00,5,positive,Great Gummi!
+72,09/11/10 03:00,5,positive,Bigger then other brands
+73,20/01/12 04:00,5,positive,Best ever latice tart
+74,30/04/12 04:00,1,negative,Warning!  WARNING!  -ALCOHOL SUGARS!
+75,22/10/10 04:00,2,neutral,nothing special
+76,28/05/10 04:00,1,negative,No Tea Flavor
+77,24/09/12 04:00,5,positive,Good
+78,21/09/12 04:00,5,positive,Taste great
+79,07/09/12 04:00,3,neutral,Order only in cold weather
+80,14/08/12 04:00,5,positive,this is the best
+81,29/12/11 04:00,5,positive,Delicious!
+82,23/12/11 04:00,4,neutral,Great
+83,04/01/12 04:00,5,positive,Forget Molecular Gastronomy - this stuff rockes a coffee creamer!
+84,25/03/11 03:00,3,neutral,Natural Balance Lamb and Rice
+85,13/08/11 04:00,3,neutral,INCREASED MY DOGS ITCHING
+86,21/12/10 03:00,5,positive,Great food!
+87,06/04/12 04:00,5,positive,Great for my dogs allergies
+88,10/11/11 04:00,5,positive,Great for stomach problems!
+89,26/07/11 04:00,5,positive,Better life for you dog!
+90,12/09/12 04:00,5,positive,Great Food
+91,26/04/12 04:00,5,positive,Great food for my my dog who has a sensitive stomach.
+92,21/04/12 04:00,5,positive,Great dog food
+93,09/04/12 04:00,5,positive,Mmmmm  Mmmmm good.
+94,24/02/12 04:00,5,positive,Great Dog Food!
+95,19/02/12 04:00,5,positive,So convenient
+96,01/11/11 04:00,5,positive,Good healthy dog food
+97,26/04/11 04:00,5,positive,Great dog food
+98,10/02/11 03:00,5,positive,"Great allergy sensitive dog food, dogs love it"
+99,18/01/11 03:00,5,positive,Perfect for our English Bulldog with Allergies
+100,08/03/12 04:00,1,negative,Bad
+101,27/01/09 03:00,5,positive,Taste wise it is a 6 star item
+102,26/10/09 03:00,4,neutral,Great Support
+103,23/04/12 04:00,4,neutral,TART!
+104,18/03/12 04:00,5,positive,Omaha Apple Tartlets
+105,13/01/12 04:00,5,positive,Loved these Tartlets
+106,22/06/11 04:00,5,positive,The best
+107,07/03/09 03:00,3,neutral,disappointing
+108,18/01/11 03:00,5,positive,Wasting Vinegar on a Cucumber is a Shame!
+109,31/05/09 04:00,5,positive,Asparagus Bliss
+110,19/09/11 04:00,5,positive,My Idea of a Good Diet Food.
+111,21/08/09 04:00,2,neutral,Low Carb Angel Food Puffs
+112,16/02/11 03:00,5,positive,Delicious tea
+113,26/05/12 04:00,5,positive,My every day green tea
+114,25/06/11 04:00,5,positive,the best tea ever... freah bright clean
+115,30/03/12 04:00,5,positive,Tea review
+116,15/01/12 04:00,5,positive,Wonderful Tea
+117,09/05/11 04:00,5,positive,Great cookies
+118,15/09/12 04:00,5,positive,Best everyday cookie!
+119,29/11/10 03:00,5,positive,So Far So Good
+120,18/12/11 04:00,5,positive,Best Cat Food
+121,02/07/11 04:00,5,positive,Great food.
+122,06/03/12 04:00,5,positive,Perfect Cat Food For Older Cats!
+123,12/08/11 04:00,5,positive,Good for Feline UTI
+124,17/12/10 03:00,5,positive,Palatable and healthy
+125,01/10/12 04:00,5,positive,Healthy & They LOVE It!
+126,11/07/12 04:00,5,positive,Wonderful food - perfect for allergic kitties
+127,12/04/12 04:00,5,positive,Holistic select cat food
+128,06/01/12 04:00,4,neutral,Tastes great. Love Hot & Spicy. Bad price here.
+129,28/08/11 04:00,5,positive,My favorite ramen
+130,17/02/12 04:00,3,neutral,It burns!
+131,29/02/12 04:00,5,positive,Amazing to the last bite.
+132,14/12/11 04:00,2,neutral,Not for me
+133,30/07/12 04:00,5,positive,Great spicy flavor
+134,20/04/12 04:00,5,positive,Great value and convenient ramen
+135,17/04/12 04:00,5,positive,great flavor
+136,07/04/12 04:00,4,neutral,"Tastes great, but is cheaper locally."
+137,09/10/12 04:00,5,positive,Tastes awesome & looks beautiful
+138,12/07/12 04:00,5,positive,Happy Face
+139,14/02/12 04:00,5,positive,Simply the BEST!
+140,11/03/10 03:00,5,positive,Excellent Product/Life Saver
+141,28/08/11 04:00,4,neutral,Nice snack
+142,03/04/11 04:00,4,neutral,Good Licorice
+143,30/09/10 04:00,5,positive,I love these!!!!!!!!
+144,21/03/10 03:00,5,positive,Great for the kids!
+145,18/04/10 04:00,3,neutral,Bite sized
+146,18/04/09 04:00,5,positive,Sweet with a nice kick!
+147,22/10/08 04:00,2,neutral,BROKEN BOTTLE BOTTOMS!
+148,08/08/12 04:00,5,positive,Love the salsa!!
+149,16/10/12 04:00,3,neutral,Ehhh...
+150,10/01/12 04:00,5,positive,awesome cornmeal
+151,05/07/12 04:00,5,positive,GREAT marinade!
+152,22/04/12 04:00,5,positive,Awesome stuff
+153,15/01/12 04:00,4,neutral,tastes good
+154,27/12/11 04:00,1,negative,Rip off Price
+155,01/03/10 03:00,5,positive,JELL-O
+156,12/12/11 04:00,5,positive,Great flavor of Jell-o.
+157,28/01/12 04:00,5,positive,Great Deal
+158,06/10/12 04:00,5,positive,Great tasting sea salt WITH iodine
+159,06/12/09 03:00,5,positive,tastes very fresh
+160,13/09/11 04:00,5,positive,Simple but good
+161,05/12/11 04:00,5,positive,tasty!
+162,03/10/12 04:00,3,neutral,Not the greatest tasting..
+163,22/09/12 04:00,4,neutral,Not Bad
+164,20/09/12 04:00,5,positive,"Right size, taste"
+165,22/03/10 03:00,1,negative,Tasteless but low calorie
+166,01/06/12 04:00,5,positive,This stuff is sooooo good!
+167,11/04/12 04:00,5,positive,Best Stuff Ever
+168,20/08/12 04:00,1,negative,Very Low quality
+169,13/10/12 04:00,1,negative,Not Banana Runts
+170,24/08/12 04:00,3,neutral,Banana Heads Not Banana Runts
+171,13/08/12 04:00,5,positive,Worked great!
+172,01/09/10 04:00,5,positive,Ricore forever
+173,30/12/09 03:00,5,positive,Delicious!
+174,14/08/12 04:00,5,positive,"Fluffy, Soft, Delicious and Sugary Sweet"
+175,03/08/10 04:00,4,neutral,Great but not as good as it was back in the day as a teen
+176,13/03/11 03:00,5,positive,EXCELLENT LEMON JUICE
+177,30/12/11 04:00,5,positive,Great Product
+178,09/09/11 04:00,5,positive,Handy
+179,02/01/11 03:00,4,neutral,ReaLemon Juice from Amazon.
+180,26/08/11 04:00,4,neutral,"relaxing, almost like something you smoke"
+181,31/01/12 04:00,4,neutral,Never paid that much !
+182,13/06/12 04:00,5,positive,Marleys Mellow Mood Lite - Half Tea Half Lemonade
+183,18/04/12 04:00,3,neutral,Great product to help you sleep
+184,19/12/10 03:00,5,positive,Perfect for gluten-free chocolate chip cookies
+185,25/02/09 03:00,5,positive,Garbonzo  Bean Flour
+186,18/05/12 04:00,5,positive,yum falafel
+187,08/04/12 04:00,5,positive,"Make a fresh fruit tart, light and beautiful"
+188,04/03/09 03:00,5,positive,Miracle
+189,27/08/11 04:00,4,neutral,not bad for instant healthy coffee
+190,25/06/12 04:00,3,neutral,Its ok
+191,07/06/12 04:00,5,positive,I love it!
+192,29/05/12 04:00,5,positive,great taste and has health benefits!
+193,04/05/12 04:00,5,positive,Tastes Great. Arrived in 2 days!
+194,14/12/11 04:00,5,positive,Great for after lunch
+195,12/09/10 04:00,4,neutral,"Nice little mints, but pricey."
+196,18/03/11 03:00,5,positive,Altoids mini mints tins
+197,17/05/10 04:00,5,positive,Altoids Smalls-Wintergreen
+198,07/07/10 04:00,3,neutral,Sugarfree...
+199,12/02/10 03:00,5,positive,Tasty!!
+200,12/08/12 04:00,5,positive,These mints are awesome!
+201,04/03/12 04:00,2,neutral,Altoids Smalls
+202,08/11/11 04:00,5,positive,Love these! And reusable containers
+203,05/11/11 04:00,5,positive,Altoids
+204,25/09/11 04:00,4,neutral,A huge hit at the office!
+205,28/11/11 04:00,5,positive,"Love em, theyre great!"
+206,19/04/10 04:00,5,positive,Love these!
+207,05/09/11 04:00,5,positive,fresh!
+208,30/08/11 04:00,5,positive,Wintergreen Me
+209,28/08/11 04:00,1,negative,These just dont do it for me as breath mints
+210,05/03/11 03:00,5,positive,"better than average, more expensive than average."
+211,07/03/10 03:00,5,positive,My cat loves it!
+212,03/09/11 04:00,5,positive,Great For Fat Cats and Senior Citizens
+213,13/07/11 04:00,2,neutral,Nearly killed the cats
+214,01/09/08 04:00,1,negative,CHANGED FORMULA MAKES CATS SICK!!!!
+215,09/11/11 04:00,4,neutral,Best by the case
+216,16/11/10 03:00,5,positive,Looking for a different flavor?
+217,27/01/11 03:00,1,negative,Price cannot be correct
+218,15/09/12 04:00,3,neutral,More Hot/Spicy than McCormicks Brand
+219,14/02/10 03:00,5,positive,Ahmad Loose Imperial Blend Tea is great for the price
+220,28/04/10 04:00,5,positive,Nice tea
+221,22/10/12 04:00,5,positive,A fragrant tea
+222,15/07/11 04:00,5,positive,Best Ahmad Tea
+223,14/06/11 04:00,5,positive,My favorite tea
+224,04/03/12 04:00,5,positive,Best tea ever!
+225,22/08/10 04:00,2,neutral,Not a real tea
+226,25/01/10 03:00,4,neutral,DELICIOUS
+227,27/08/12 04:00,5,positive,Best Bloody Mary mixer
+228,28/05/12 04:00,5,positive,The Best
+229,10/04/12 04:00,5,positive,Mcclures bloody Mary mix
+230,22/08/12 04:00,1,negative,Not Good
+231,10/09/12 04:00,5,positive,Love this tea!
+232,08/04/12 04:00,5,positive,Really Nice Taste!
+233,31/07/12 04:00,5,positive,just give me some watermelon and citron sea salt
+234,31/07/12 04:00,1,negative,Furniture Polish Taste
+235,20/04/11 04:00,5,positive,Big tub o salt
+236,09/04/11 04:00,2,neutral,"Taste is neutral, quantity is DECEITFUL!"
+237,10/07/12 04:00,5,positive,Eukanuba puppy small breed dog food
+238,09/03/12 04:00,4,neutral,High Quality... But it gave my dog wicked gas..
+239,28/02/12 04:00,5,positive,Great tasting green tea and such a great deal.
+240,20/10/12 04:00,5,positive,OMG best chocolate jelly belly
+241,03/03/12 04:00,5,positive,Excellent loose tea.
+242,14/12/11 04:00,5,positive,Good anytime hot tea
+243,14/04/11 04:00,5,positive,My everyday cup of Tea
+244,29/04/10 04:00,4,neutral,This is what you get in the store
+245,29/05/10 04:00,4,neutral,Ahmad Tea
+246,20/06/09 04:00,2,neutral,Disappointed
+247,01/06/12 04:00,5,positive,Wonderful!
+248,14/10/12 04:00,5,positive,Best way to buy kcups
+249,27/06/12 04:00,5,positive,delicious
+250,11/04/10 04:00,5,positive,keeps you out of the dentest chair
+251,14/04/12 04:00,5,positive,Super!  SuperFoods are Super easy!
+252,07/08/11 04:00,3,neutral,Pok Chops
+253,10/08/12 04:00,1,negative,Sad outcome
+254,06/09/12 04:00,4,neutral,Best Energy Shot For Me
+255,16/06/12 04:00,1,negative,Dont Waste Your Money
+256,05/10/11 04:00,2,neutral,"If you cant handle caffeine, this is not for you."
+257,11/09/12 04:00,5,positive,"Yum, Yummy, Yummier"
+258,20/09/12 04:00,1,negative,Reeks like chemicals
+259,17/08/12 04:00,2,neutral,Disappointed!
+260,24/09/12 04:00,5,positive,Great for Gluten-free lifestyle!!
+261,15/05/12 04:00,5,positive,my dog loves these
+262,25/02/11 03:00,5,positive,YUMMY
+263,04/12/07 03:00,5,positive,sugar in the raw
+264,17/01/11 03:00,3,neutral,Manufacturing Problems Diminish Product
+265,16/06/12 04:00,5,positive,Good product but terrible agricultural practices
+266,01/12/08 03:00,5,positive,Sugar in the raw
+267,02/08/08 04:00,5,positive,Sugar in the raw
+268,03/08/12 04:00,1,negative,Lie!!!!
+269,04/05/12 04:00,4,neutral,Its sugar..
+270,10/08/11 04:00,4,neutral,Excellent but not perfect
+271,14/04/11 04:00,4,neutral,Good product
+272,16/02/11 03:00,5,positive,Youll never use white sugar again.
+273,06/02/11 03:00,3,neutral,Thanks for the review Scott
+274,04/02/11 03:00,5,positive,great
+275,29/09/10 04:00,5,positive,Awesome Sugar!
+276,15/12/09 03:00,4,neutral,Great product - weak packaging
+277,24/09/09 04:00,5,positive,Excellent!
+278,31/07/12 04:00,5,positive,Excellent for G/F
+279,07/09/11 04:00,5,positive,Amazing!
+280,02/06/10 04:00,5,positive,Very tasty chips!
+281,27/04/10 04:00,5,positive,YUMMY
+282,14/07/09 04:00,5,positive,Excellent Taste
+283,04/08/10 04:00,1,negative,Over priced chips and lack rice taste
+284,07/09/10 04:00,5,positive,Rotel saves me on a daily basis
+285,26/12/09 03:00,5,positive,"its fabulous, but *not* from amazon!"
+286,12/09/08 04:00,3,neutral,too expensive
+287,31/07/10 04:00,3,neutral,Not mild enough for me lol
+288,11/06/10 04:00,5,positive,Great Natural Energy
+289,27/07/10 04:00,5,positive,I like this stuff
+290,09/03/10 03:00,5,positive,Great Energy
+291,20/11/09 03:00,3,neutral,Not sure
+292,22/07/11 04:00,5,positive,"The best energy shot out there, smooth and organic!"
+293,02/03/11 03:00,5,positive,"Fantastic, natural energy"
+294,12/01/11 03:00,5,positive,Way better than Guayaki!
+295,05/12/09 03:00,3,neutral,Doesnt taste that good but provides you the energy
+296,01/12/11 04:00,5,positive,Rocket in a Bottle
+297,26/11/11 04:00,4,neutral,This stuff works!!!
+298,23/04/12 04:00,5,positive,Favorite energy shot and all natural too!
+299,19/04/12 04:00,5,positive,natural energy boost
+300,05/11/11 04:00,5,positive,Best energy shot I have ever tasted!
+301,11/09/12 04:00,5,positive,The Best
+302,23/08/12 04:00,5,positive,Tested by a trucker
+303,12/08/12 04:00,5,positive,Good Stuff
+304,09/06/12 04:00,5,positive,Great energy drink without artificial ingredients
+305,03/04/12 04:00,5,positive,"Flavor getting better, energy is great"
+306,17/01/12 04:00,1,negative,So awful I can barely describe
+307,21/10/10 04:00,4,neutral,could use only once
+308,02/10/12 04:00,5,positive,VANILLA TOOTSIE ROLLS
+309,04/03/11 03:00,5,positive,One of my Favoritte foods
+310,05/11/11 04:00,5,positive,Fantastic!
+311,11/05/11 04:00,5,positive,WOW
+312,29/07/12 04:00,1,negative,Very Dissapointed
+313,09/12/11 04:00,1,negative,what quantity is it!
+314,30/06/12 04:00,5,positive,Very Good Coffee
+315,22/11/10 03:00,5,positive,Very Tasty
+316,11/03/10 03:00,5,positive,Excellent coffee
+317,23/03/12 04:00,5,positive,Hot!
+318,14/08/09 04:00,5,positive,Hot and delicious
+319,20/10/12 04:00,5,positive,Swiss Chalet
+320,23/09/11 04:00,5,positive,Oyster Sauce
+321,15/05/11 04:00,5,positive,ABSOLUTELY DELICIOUS!
+322,11/01/07 03:00,5,positive,Great gag gift
+323,20/01/09 03:00,3,neutral,arrived FAST
+324,13/01/08 03:00,3,neutral,Penguin Pooper
+325,09/01/07 03:00,1,negative,Never Arrived
+326,19/08/12 04:00,5,positive,coffee-mate coffee creamer hazelnut
+327,13/07/12 04:00,5,positive,No broken creamers!
+328,25/06/12 04:00,4,neutral,Shipped great
+329,03/05/12 04:00,5,positive,Better Packaging
+330,26/02/12 04:00,5,positive,coffee-mate creamer
+331,17/01/12 04:00,5,positive,Perfect for work
+332,10/10/12 04:00,1,negative,AWFUL
+333,09/05/12 04:00,5,positive,Pop-Tarts Work of Art
+334,08/11/11 04:00,5,positive,"Yes, this is real excellent coffee!!!"
+335,11/05/12 04:00,1,negative,Does not taste very good
+336,14/01/12 04:00,1,negative,No no
+337,19/10/12 04:00,5,positive,The king of all seasoning salts.
+338,19/08/12 04:00,5,positive,Toasted Sesame oil
+339,08/09/12 04:00,5,positive,"Tasty, tasty tasty!"
+340,16/01/07 03:00,5,positive,"Love, Love, Love These!"
+341,13/08/10 04:00,4,neutral,"great for eating whole foods, clean with veggie brush"
+342,25/09/07 04:00,5,positive,Absolutely LOVE IT!!
+343,27/05/07 04:00,3,neutral,Only good for ice
+344,10/03/07 03:00,5,positive,Great for teething
+345,10/03/07 03:00,3,neutral,Wonderful idea-difficult to clean.
+346,16/02/07 03:00,3,neutral,I wasnt that impressed
+347,11/01/07 03:00,4,neutral,Love the Fresh Food Feeder!!
+348,06/04/08 04:00,5,positive,Great Beans!!!
+349,21/12/07 03:00,5,positive,Good stuff!
+350,12/05/07 04:00,5,positive,excellent - exactly what I expected
+351,13/06/07 04:00,5,positive,These are the Best!
+352,15/09/12 04:00,5,positive,Love Love Love
+353,19/11/09 03:00,5,positive,The product is great but the price is out of line
+354,29/07/10 04:00,5,positive,Swedish Pearl is not the same as  Belgian Pearl
+355,07/12/10 03:00,5,positive,Perfect!
+356,13/03/12 04:00,5,positive,great taste
+357,12/02/11 03:00,5,positive,Taste-tested by a wine maker
+358,11/11/11 04:00,4,neutral,Excellent Everyday Olive Oil
+359,18/09/12 04:00,4,neutral,"Love Weavers, I am a fan."
+360,10/10/11 04:00,5,positive,Make My Day
+361,16/10/11 04:00,5,positive,Treat yourself to the best coffee!
+362,21/08/12 04:00,1,negative,Bitter
+363,01/02/12 04:00,5,positive,"Drinking it now, love the latin america aroma"
+364,16/12/11 04:00,5,positive,GREAT SNACK
+365,17/09/11 04:00,5,positive,Best Bar
+366,29/08/12 04:00,5,positive,Cant find anywhere else!
+367,04/06/12 04:00,5,positive,My New Granola Bar
+368,26/05/11 04:00,5,positive,Another Husband Favorite
+369,07/09/10 04:00,4,neutral,Price surprise
+370,19/08/10 04:00,5,positive,Very Smooth Coffee - Highly Recommended
+371,21/01/12 04:00,4,neutral,A saving grace for Green Mountain Coffee...
+372,15/08/11 04:00,5,positive,My favorite
+373,18/05/11 04:00,4,neutral,Good Coffee
+374,02/03/11 03:00,5,positive,Nantucket blend k-cups
+375,17/09/12 04:00,5,positive,Fantastic Chicken Noodle soup
+376,18/06/12 04:00,5,positive,Greatest Oil since slice bread !!!!!!!
+377,06/08/11 04:00,5,positive,Best Ever!
+378,23/04/12 04:00,5,positive,Deliciously scrumptious
+379,14/10/12 04:00,5,positive,Heinz no more!
+380,09/05/12 04:00,5,positive,This is really good stuff
+381,05/05/12 04:00,3,neutral,Disappointing
+382,29/06/11 04:00,1,negative,Waste of money
+383,11/08/11 04:00,5,positive,Porcini Mushrooms an excellent product
+384,23/04/12 04:00,5,positive,"Excellent flavor, mostly large pieces"
+385,01/01/12 04:00,5,positive,The Best
+386,16/12/11 04:00,5,positive,Good for the money
+387,20/10/11 04:00,4,neutral,"not the highest quality, but good for the price."
+388,02/08/11 04:00,5,positive,Fresh - Whole.. perfect
+389,20/01/11 03:00,5,positive,Fresh and Tasty
+390,17/02/09 03:00,4,neutral,Valentine gift winner
+391,18/12/10 03:00,2,neutral,Cat wont go near it!
+392,18/12/10 03:00,5,positive,Simply WIld Chick & Brown RIce for Cats
+393,22/05/11 04:00,5,positive,Ham Base
+394,09/09/12 04:00,1,negative,MSG Ham Base
+395,09/09/07 04:00,5,positive,Delisious Pancakes
+396,07/07/10 04:00,5,positive,A Great All Around Mix
+397,10/07/08 04:00,5,positive,Great mix
+398,29/04/08 04:00,5,positive,Perfect mix for egg-allergic!
+399,13/01/08 03:00,5,positive,Arrowhead Mills whole grain buttermilk Pancakes are easy!
+400,27/11/09 03:00,4,neutral,Good for Egg Allergy
+401,11/08/07 04:00,3,neutral,Love the product disappointed in the shipping.
+402,10/07/07 04:00,1,negative,poor item packaging
+403,05/04/08 04:00,1,negative,Awful
+404,22/07/12 04:00,1,negative,disappointing
+405,14/11/09 03:00,5,positive,Great Healthy Snack
+406,31/12/07 03:00,5,positive,Sweet and Soothing
+407,30/10/10 04:00,5,positive,minty flavor
+408,13/06/12 04:00,5,positive,Ingredients take about 2 seconds to read
+409,11/11/09 03:00,5,positive,A Fantastic & Healthy Product
+410,26/07/12 04:00,5,positive,Great product
+411,04/07/12 04:00,5,positive,Excellent tea!
+412,02/02/12 04:00,5,positive,frenchs roastn bags
+413,23/08/10 04:00,5,positive,best roast ever
+414,30/01/10 03:00,5,positive,Franchs is the best
+415,09/04/11 04:00,5,positive,Double the pleasure!
+416,09/05/12 04:00,5,positive,VERY GOOD! Great taste and easy for a single guy!
+417,13/08/12 04:00,5,positive,An acquired taste!
+418,10/08/11 04:00,1,negative,Look elsewhere for your whole grains
+419,15/08/12 04:00,5,positive,Hey!
+420,16/07/12 04:00,4,neutral,These are Famous for a reason.
+421,22/05/12 04:00,5,positive,Wow
+422,26/04/12 04:00,5,positive,"God, I love these cookies!!!"
+423,26/04/12 04:00,4,neutral,Hard
+424,17/04/12 04:00,5,positive,Kettle potato chips:  Fully loaded baked potato
+425,13/04/12 04:00,5,positive,"Fresh, Lightly-Spiced, Crunchy Kettle Chips. Good Value, Good Product."
+426,10/04/12 04:00,4,neutral,glad to find them in 1 oz size
+427,10/04/12 04:00,4,neutral,"pretty good, could be better"
+428,06/04/12 04:00,5,positive,a slight taste of jalapeno
+429,16/03/12 04:00,5,positive,Best chips ever
+430,07/03/12 04:00,5,positive,Kettle potato chips:  Sweet onion
+431,05/03/12 04:00,5,positive,Ridiculously Good
+432,30/01/12 04:00,5,positive,Delicious!
+433,24/01/12 04:00,4,neutral,PUCKER UP
+434,16/01/12 04:00,5,positive,I love these chips.  They are thick and crunchy!
+435,09/01/12 04:00,4,neutral,Quite good
+436,09/01/12 04:00,5,positive,Delicious
+437,05/01/12 04:00,5,positive,Salty and vinegary!!!
+438,02/12/11 04:00,5,positive,WOW!!!!
+439,20/11/11 04:00,5,positive,Best gluten-free dairy-free chips
+440,11/09/11 04:00,4,neutral,A unique flavor for fans of Thai food
+441,07/05/11 04:00,3,neutral,"Honey Dijon leaves bad aftertaste, NY Cheddar are pretty good"
+442,06/05/11 04:00,5,positive,Yowzah!!
+443,24/03/11 03:00,4,neutral,Very good.
+444,20/03/11 03:00,5,positive,Excellent!
+445,17/02/11 03:00,5,positive,Tangy goodness.
+446,13/02/11 03:00,3,neutral,Heavy on the Vinegar
+447,25/01/11 03:00,4,neutral,"A delicious, crisp chip with good flavor"
+448,18/12/10 03:00,5,positive,BEST BUY in BBQ Chips
+449,24/11/10 03:00,5,positive,Love Them!
+450,21/11/10 03:00,5,positive,Crunchy and Tasty
+451,08/11/10 03:00,5,positive,Convenience at low cost
+452,05/11/10 03:00,3,neutral,An Acquired Taste
+453,18/10/10 04:00,5,positive,Best deal ever!
+454,12/08/10 04:00,5,positive,Yum!
+455,21/02/10 03:00,5,positive,Barbeque perfection
+456,20/01/10 03:00,5,positive,Excellent Thai-flavored chip
+457,16/11/09 03:00,5,positive,Best Kettle Chips!
+458,13/11/09 03:00,5,positive,The Supreme Salt & Vinegar
+459,21/10/09 04:00,5,positive,Delicious as always!
+460,19/08/09 04:00,5,positive,OooH Yummy!
+461,05/08/09 04:00,4,neutral,Not quite the best...
+462,16/06/09 04:00,4,neutral,want to gaain twenty pounds with no control whatsoever? Buy this!
+463,15/06/09 04:00,5,positive,One of Their Best Flavors
+464,11/06/09 04:00,5,positive,Love these chips!
+465,18/03/09 03:00,5,positive,Highly addicitive chips
+466,15/01/09 03:00,5,positive,These are AWESOME!
+467,12/01/09 03:00,5,positive,One bite and youll become a chippoisseur
+468,12/01/09 03:00,5,positive,"Crunchy, salty, sweet...finally, a Superbowl snack that scooores!"
+469,10/01/09 03:00,5,positive,These chips make me weak at the knees
+470,15/09/08 04:00,5,positive,By far my favorite chips
+471,11/09/08 04:00,4,neutral,"Good chips, more cheese"
+472,27/08/08 04:00,4,neutral,Pretty good tasting chip
+473,30/07/08 04:00,4,neutral,Yummy chips
+474,30/07/08 04:00,4,neutral,Best sour cream & onion chip Ive had
+475,28/07/08 04:00,5,positive,Great chips
+476,26/07/08 04:00,5,positive,Fabulous!
+477,14/07/08 04:00,5,positive,Box-o-Chips
+478,08/07/08 04:00,5,positive,fantastic!you can not beat this taste and you can not resist to it only one if you are spice lover
+479,06/07/08 04:00,4,neutral,An addictive potato chip
+480,06/07/08 04:00,5,positive,Great Chip!
+481,05/07/08 04:00,5,positive,"Excellent balance of taste, crunchiness, and moisture"
+482,05/07/08 04:00,5,positive,Yum
+483,04/07/08 04:00,5,positive,Very good chips at a great price.
+484,30/06/08 04:00,2,neutral,70% of the chips in the bag are over cooked
+485,29/06/08 04:00,5,positive,Great chips!
+486,21/06/08 04:00,4,neutral,Not bad but a little hard to get used to
+487,21/06/08 04:00,4,neutral,Firm quality chip
+488,20/06/08 04:00,2,neutral,Not  Very Creamy or Chivey...
+489,11/06/08 04:00,3,neutral,Prefer other flavors
+490,03/06/08 04:00,5,positive,These will be habit forming!
+491,15/05/08 04:00,2,neutral,Good and tangy
+492,28/03/08 03:00,5,positive,the best chips ever
+493,22/02/08 03:00,5,positive,I do not even like kettle chips and I love these
+494,22/02/08 03:00,5,positive,You have to love sea salt and vinegar already
+495,20/02/08 03:00,5,positive,Addictive
+496,27/01/08 03:00,5,positive,amazing chips
+497,04/12/07 03:00,5,positive,Best Chip Ever
+498,09/08/07 04:00,4,neutral,"Tangy, spicy, and sweet- oh my!"
+499,12/07/07 04:00,4,neutral,An indulgence with a bite
+500,03/07/07 04:00,5,positive,The best Ive had
+501,08/03/07 03:00,5,positive,Excellent chip!
+502,21/06/08 04:00,2,neutral,salt and vinegar chips
+503,02/10/12 04:00,5,positive,Delicious!!
+504,31/01/12 04:00,4,neutral,I like them.
+505,22/09/11 04:00,5,positive,Love Kettle Chips
+506,17/12/10 03:00,5,positive,Best unsalted chips
+507,23/10/10 04:00,5,positive,So Delicious...Yet my companions wont touch them.
+508,17/07/09 04:00,2,neutral,"Love Kettle Chips, but not this flavor!"
+509,31/01/09 03:00,1,negative,Maybe the worst chips ever.
+510,12/09/09 04:00,1,negative,Surprise 1  Its different...
+511,19/01/08 03:00,5,positive,Tasty
+512,27/08/11 04:00,4,neutral,Crisp
+513,07/02/11 03:00,3,neutral,Vinegar... Not my taste!
+514,16/12/10 03:00,5,positive,spicy thai chips
+515,02/12/10 03:00,5,positive,"Delicious, what else did you expect?"
+516,30/11/10 03:00,5,positive,Great Value
+517,14/07/10 04:00,1,negative,I have had better Jalapeno Kettle Chips
+518,01/02/10 03:00,4,neutral,Spicy but good
+519,25/12/09 03:00,3,neutral,boulder salt and malt vinegar chips are way better
+520,19/11/09 03:00,2,neutral,POTATO CHIPS
+521,11/10/09 04:00,5,positive,"Lightly Salted, Heavily Delicious!"
+522,26/08/09 04:00,3,neutral,Too Much Flavor
+523,02/04/08 04:00,5,positive,Love at first bite!  Tongue-puckering tang and crunch!
+524,28/07/07 04:00,5,positive,The Best Chips...PERIOD!
+525,18/01/08 03:00,5,positive,Delicious Extra Crunchy
+526,11/01/09 03:00,5,positive,Chip snob alert!
+527,11/02/08 03:00,5,positive,Best Salt & Vinegar!
+528,24/03/07 03:00,5,positive,Gourmet powerful Salt & Vinegar chips!
+529,27/09/09 04:00,1,negative,They changed the Chips now they taste horrible
+530,28/01/12 04:00,5,positive,Do not miss the salt!
+531,18/02/09 03:00,5,positive,Great deal
+532,28/06/08 04:00,5,positive,Best Chips out there!!!
+533,31/08/08 04:00,4,neutral,"Great price, but not as tangy as I expected."
+534,22/06/08 04:00,3,neutral,burnt
+535,12/07/07 04:00,3,neutral,Gaaak!  An extreme potato chip...!
+536,23/09/10 04:00,2,neutral,Kettle Chips
+537,19/05/12 04:00,5,positive,"Absotively, Posilutely Delicious"
+538,16/03/12 04:00,1,negative,Gone down hill
+539,07/02/12 04:00,1,negative,completely ripped off
+540,26/06/11 04:00,5,positive,C H I P.....C H I P.....H O O R A Y....!!!!!  :  )  ( B A C K Y A R D.....B A R B E C U E )
+541,15/06/09 04:00,3,neutral,Not the Best
+542,28/09/10 04:00,1,negative,STALE.  Beware buying these on special!
+543,24/04/08 04:00,4,neutral,THESE ARE VERY GOOD
+544,11/02/12 04:00,1,negative,USED to be my favorite chips
+545,05/02/12 04:00,1,negative,"Stale, Rancid Oil Taste, And if You Like Even the Tiniest Bit of Salt Flavor on Your Chips..."
+546,01/06/11 04:00,1,negative,Disgusting
+547,13/10/10 04:00,2,neutral,"Taste terrible, way too strong"
+548,29/12/09 03:00,1,negative,Over-fried
+549,01/11/09 03:00,4,neutral,No salt Kettle chips.
+550,06/01/08 03:00,3,neutral,Not as good as the English sell
+551,06/04/09 04:00,1,negative,VERY DISAPPOINTED
+552,05/05/10 04:00,1,negative,dripping in oil
+553,18/09/10 04:00,2,neutral,Not so good.
+554,19/02/09 03:00,2,neutral,Bags O Salt with chips added.
+555,08/07/08 04:00,1,negative,Chips
+556,03/03/12 04:00,1,negative,Garbage
+557,17/11/08 03:00,1,negative,Theyre Not Madhouse Munchies!!!
+558,04/11/10 03:00,1,negative,Too SOUR!
+559,05/10/10 04:00,1,negative,AWFUL TASTE
+560,03/09/07 04:00,5,positive,delicious
+561,09/04/11 04:00,1,negative,"Kettle has sold out, the chips are horrible now"
+562,27/02/11 03:00,1,negative,The bags were damaged with holes and stains.
+563,06/01/11 03:00,1,negative,Kettle Chips Make Great Mouse Food
+564,26/02/08 03:00,5,positive,orgasmic
+565,15/10/07 04:00,5,positive,A tang that packs a punch!
+566,28/03/07 04:00,5,positive,great (hot) new flavor....
+567,06/04/12 04:00,1,negative,HORRIBLE I CANT BELIEVE THIS!
+568,13/02/12 04:00,5,positive,Favorite Kettle flavor and a great value!
+569,07/01/12 04:00,1,negative,Kettle Brand Potato Chips - New York Cheddar
+570,09/12/11 04:00,5,positive,My favorite flavor
+571,05/10/11 04:00,5,positive,So much flavor your farts will smell like sweet onions
+572,05/09/09 04:00,5,positive,Great Chip!
+573,21/04/09 04:00,5,positive,Awesome and delicious!
+574,29/03/09 04:00,5,positive,The only thing I have ever been addicted too...these chips!
+575,12/01/09 03:00,5,positive,One bite and youll become a chippoisseur
+576,03/10/08 04:00,5,positive,Good chips
+577,04/10/11 04:00,1,negative,what happened? the recipe has changed
+578,04/08/09 04:00,5,positive,"YUM! If you want a snack, have something REALLY good!"
+579,09/10/12 04:00,5,positive,a good buy
+580,03/10/12 04:00,5,positive,Yoli
+581,27/09/12 04:00,4,neutral,Good chips
+582,21/09/12 04:00,5,positive,Awesome
+583,04/08/12 04:00,1,negative,burns the skin off your lips
+584,03/06/12 04:00,5,positive,Great chips with very low sodium
+585,10/04/12 04:00,5,positive,Kettle Chips
+586,06/04/12 04:00,4,neutral,Spicy Thai
+587,02/02/12 04:00,5,positive,smiles
+588,31/01/12 04:00,5,positive,My favorite Kettle Chip
+589,27/01/12 04:00,5,positive,Best salt & vinegar chips out there!
+590,26/01/12 04:00,5,positive,Amazing Service
+591,01/07/11 04:00,5,positive,Crunchy and spicy.
+592,28/05/11 04:00,4,neutral,Pretty tasty and decently spiced. . . .
+593,27/12/10 03:00,5,positive,Great Tasting Chips
+594,11/11/10 03:00,2,neutral,"Kettle Chips, Sea Salt"
+595,29/10/10 04:00,3,neutral,Good deal but close expiration date!
+596,01/08/10 04:00,5,positive,GREAT TASTING CHIPS
+597,22/02/10 03:00,5,positive,"Buy These, Eat These, Be Happy!"
+598,03/11/09 03:00,5,positive,Eating them for years.
+599,01/08/09 04:00,5,positive,These chips will make you fat
+600,01/07/09 04:00,5,positive,Like Spice? Get these
+601,15/06/09 04:00,5,positive,Fantastic
+602,14/05/09 04:00,5,positive,"Sweet, salty, tangy: the way a snack should be"
+603,15/03/09 03:00,5,positive,One bite and youll become a chippoisseur
+604,16/12/08 03:00,5,positive,One bite and youll become a chippoisseur
+605,15/08/08 04:00,5,positive,Some of the best chips anywhere
+606,29/07/08 04:00,5,positive,the defacto standard for Salt and Vinegar chips
+607,28/07/08 04:00,5,positive,Yummy!
+608,21/07/08 04:00,4,neutral,Delicious!
+609,08/07/08 04:00,5,positive,"Lightly salted, yet tasty"
+610,04/07/08 04:00,5,positive,YUMMY!
+611,03/06/08 04:00,5,positive,Caution: Kettle Chips are addictive!
+612,30/05/08 04:00,4,neutral,The chip with a kiss of salt
+613,12/02/08 03:00,5,positive,Crunch. Wow!
+614,12/08/07 04:00,5,positive,Great strong flavor
+615,04/05/07 04:00,5,positive,yummy for your tummy
+616,22/05/08 04:00,4,neutral,Best Chips Out There!
+617,18/12/07 03:00,5,positive,These chips tasted good
+618,06/11/07 03:00,5,positive,awesome chips
+619,30/09/07 04:00,3,neutral,I dont know if...
+620,28/05/07 04:00,5,positive,Delicious!
+621,25/05/11 04:00,2,neutral,Kettle Foods Spicy Thai Chips
+622,17/02/11 03:00,1,negative,Expired stock
+623,28/03/07 04:00,5,positive,these potato chips are yummy....
+624,09/05/12 04:00,1,negative,ONLY awful because SOMETIMES they are awful
+625,03/09/10 04:00,4,neutral,4 Stars for price and taste
+626,15/06/09 04:00,5,positive,"CRISPY, CRUNCHY, AND ROBUST"
+627,03/06/09 04:00,4,neutral,Tangy and delicious snack
+628,06/08/08 04:00,5,positive,Best Chip
+629,21/12/07 03:00,3,neutral,Not low salt
+630,27/10/07 04:00,5,positive,Best Chips Ive Ever Tasted
+631,03/10/07 04:00,4,neutral,Tasty!
+632,16/10/12 04:00,5,positive,Love the smaller bags!
+633,12/09/12 04:00,3,neutral,Things you need to know
+634,08/09/12 04:00,5,positive,I made a mistake.....
+635,14/08/12 04:00,3,neutral,Ok but Miss Vickies Are Better
+636,28/05/12 04:00,3,neutral,Do they have to bite back?
+637,11/05/12 04:00,4,neutral,These chips are awesome if not best but....
+638,10/05/12 04:00,4,neutral,kettle chips
+639,06/05/12 04:00,5,positive,GREAT DEAL
+640,16/04/12 04:00,5,positive,What a great tea at this price
+641,14/01/12 04:00,5,positive,delicious
+642,23/11/11 04:00,5,positive,Great well balanced Earl Grey
+643,06/07/11 04:00,5,positive,Best Earl Grey ever
+644,21/01/11 03:00,5,positive,favorite Earl Grey tea
+645,16/06/12 04:00,5,positive,Delicious
+646,02/01/12 04:00,5,positive,The best
+647,27/06/11 04:00,5,positive,A HUGE Success
+648,09/12/11 04:00,5,positive,For your Health
+649,22/04/12 04:00,5,positive,Shrimp stir fry
+650,05/10/12 04:00,4,neutral,Do not taste from bottle! Mix with vanilla for true flavor.
+651,28/02/11 03:00,5,positive,Bavarian Creme Flavor Oil
+652,01/03/12 04:00,5,positive,The oldest soft drink is still the best!
+653,06/01/11 03:00,5,positive,Made in Michigan since 1866
+654,26/11/09 03:00,5,positive,"Caramel flavor, excellent for baking and toppings (tips for using agave, too)"
+655,15/12/10 03:00,4,neutral,These weigh 46 oz. NOT 46 fluid ounces
+656,04/02/10 03:00,5,positive,Great buy!
+657,02/11/10 03:00,5,positive,excellent sweetner
+658,15/10/10 04:00,5,positive,Agave syrup
+659,19/05/10 04:00,5,positive,Sugar Substitute
+660,11/09/12 04:00,4,neutral,"Good, but container could be better"
+661,07/08/12 04:00,5,positive,Great stuff!
+662,17/07/12 04:00,5,positive,Healthy Sweetener
+663,05/07/12 04:00,5,positive,Great way replacing the sugar
+664,17/06/12 04:00,4,neutral,Great substitute sweetener
+665,18/03/12 04:00,5,positive,My Go to sweetner
+666,14/03/12 04:00,5,positive,The Best
+667,17/02/12 04:00,5,positive,YUMMY
+668,16/01/12 04:00,5,positive,Healthy Stuff
+669,29/11/11 04:00,5,positive,Agave Nectar
+670,25/08/11 04:00,5,positive,Sweet success
+671,08/08/11 04:00,5,positive,great product
+672,20/07/11 04:00,5,positive,Best price on agave nectar that Ive found
+673,18/06/11 04:00,1,negative,How this could be good?
+674,16/06/09 04:00,5,positive,Best tea I ever had
+675,12/05/07 04:00,5,positive,Thats a spicy!
+676,30/04/07 04:00,5,positive,Who needs salsa when chips taste this good?
+677,23/12/09 03:00,5,positive,Delicious!
+678,20/04/08 04:00,4,neutral,Organic yummy chips what more can you ask for
+679,08/04/08 04:00,4,neutral,Very different flavor
+680,22/07/07 04:00,5,positive,These are the best widely available bbq chips!
+681,22/08/07 04:00,5,positive,My favorite chips from Kettle!!
+682,18/09/06 04:00,5,positive,"Amazing Taste, Best Chip Ever!"
+683,16/06/09 04:00,4,neutral,tasty
+684,24/08/08 04:00,4,neutral,Plockys Sweet Smokey Chipotle Whole Grain Tortill...
+685,28/07/08 04:00,5,positive,Yummy chips
+686,03/07/08 04:00,5,positive,Tasty!
+687,02/05/08 04:00,5,positive,So Faboo: Dangerous for those prone to Chips Binges!!!
+688,14/07/07 04:00,5,positive,The spice will grow!
+689,24/10/09 04:00,5,positive,The best tortilla chips I have ever eaten!!
+690,05/02/08 03:00,5,positive,Such an excellent chip
+691,08/08/12 04:00,1,negative,WRONG FLAVOR - got Country BBQ instead of Chili Chipotle
+692,17/09/10 04:00,5,positive,Great
+693,09/07/10 04:00,5,positive,Plockys Rice and Beans Tortilla Chips
+694,07/02/10 03:00,5,positive,Huge fan of these chips!
+695,22/10/09 04:00,4,neutral,Plockys tortilla chips--tasty and healthy
+696,12/08/09 04:00,5,positive,Plockys Three Grain Tortilla Chips
+697,27/07/09 04:00,4,neutral,"Tasty, but make sure you have gum"
+698,04/07/09 04:00,5,positive,Dont stop carrying these chips
+699,11/06/09 04:00,5,positive,OM NOM NOM NOM!
+700,03/06/09 04:00,5,positive,delicious and healthy
+701,01/05/09 04:00,5,positive,Unique schrumshist and tasty Tortilla Chips
+702,07/03/09 03:00,5,positive,Music to My Palate
+703,04/03/09 03:00,5,positive,yummy!
+704,30/12/08 03:00,5,positive,Kettle Organic Chipotle potato chips
+705,31/08/08 04:00,5,positive,Best kept secret.
+706,26/07/08 04:00,5,positive,Delicious and additive
+707,14/07/08 04:00,5,positive,FANFREAKINTASTIC
+708,24/06/08 04:00,5,positive,Smokin
+709,25/05/08 04:00,5,positive,really good chips
+710,08/05/08 04:00,5,positive,"Plockys Tortilla Chips, Red Beans N Rice"
+711,02/05/08 04:00,5,positive,Simply THE BEST
+712,30/01/08 03:00,5,positive,Addicted
+713,06/01/08 03:00,5,positive,Perfect tortilla chip goodness!
+714,29/12/07 03:00,5,positive,These chips are addictive!
+715,01/06/07 04:00,5,positive,Best tortilla chips ever!!!
+716,23/08/08 04:00,2,neutral,Meh
+717,15/11/07 03:00,1,negative,The Organic Label is Misleading
+718,06/07/10 04:00,3,neutral,Kind of Bland
+719,24/06/10 04:00,5,positive,Delicious chips
+720,02/05/08 04:00,4,neutral,Broken chips but tasty
+721,28/04/08 04:00,5,positive,The best chips ever!!!
+722,24/02/08 03:00,5,positive,Excellent Tortilla chips
+723,17/02/08 03:00,5,positive,Black Beans Never Tasted So Good!!!
+724,14/03/07 03:00,2,neutral,"Not, my favorite chip"
+725,10/08/07 04:00,5,positive,Very Timely Delivery
+726,25/03/09 03:00,2,neutral,Very Tasty - BUT BEWARE
+727,26/08/12 04:00,5,positive,Great candy
+728,28/11/11 04:00,4,neutral,Candy
+729,31/08/12 04:00,5,positive,"cute ,cute, cute!"
+730,24/06/12 04:00,4,neutral,A Surprising Find
+731,27/04/11 04:00,5,positive,Unparalleled taste
+732,27/04/11 04:00,5,positive,Amazing
+733,26/09/12 04:00,3,neutral,a bit on the stale side
+734,07/01/12 04:00,5,positive,Delicious!
+735,20/07/12 04:00,1,negative,Disappointed!
+736,17/01/10 03:00,1,negative,Perhaps something was wrong with the batch...
+737,31/03/10 04:00,2,neutral,$4 down the drain
+738,31/01/10 03:00,1,negative,Big Disappointment
+739,15/10/10 04:00,1,negative,Worst Frosting Ever
+740,12/09/10 04:00,1,negative,worst frosting ever
+741,24/08/10 04:00,1,negative,Cherrybrook Kitchen Vanilla Frosting
+742,09/08/10 04:00,1,negative,Do Not Buy This Frosting
+743,17/06/10 04:00,5,positive,Dum Dums for all!!
+744,16/06/11 04:00,4,neutral,Lots of pops!
+745,08/05/12 04:00,5,positive,"when you have no fridge but want meat, what do you do?"
+746,08/02/12 04:00,5,positive,Anti-Oxidant Smoothie
+747,15/04/12 04:00,1,negative,Perversion of taste
+748,21/09/12 04:00,3,neutral,Annies Homegrown Organic Whole Wheat Shells & White Cheddar Macaroni & Cheese - 6 oz.
+749,14/08/12 04:00,5,positive,The flavor of the gods
+750,20/01/10 03:00,5,positive,cuttiest gum of the century
+751,26/01/12 04:00,2,neutral,"City Steam, not much steam in this brew."
+752,05/09/10 04:00,4,neutral,"Good soy sauce, but not special. Mainly good as unique gift."
+753,13/05/11 04:00,5,positive,What a surprise
+754,28/08/11 04:00,5,positive,Gets My Vote
+755,29/09/12 04:00,5,positive,And I though kikkoman was good?
+756,27/09/12 04:00,5,positive,Better than anything in the supermarket!
+757,31/08/12 04:00,5,positive,Best Soy Sauce Ever!!!
+758,11/05/11 04:00,5,positive,Great sauce!
+759,14/11/11 04:00,5,positive,Outstanding Product!
+760,01/08/12 04:00,4,neutral,non GMO
+761,24/10/12 04:00,5,positive,Amazingly true to flavors...
+762,15/10/12 04:00,1,negative,ITS A LAXATIVE
+763,08/12/11 04:00,5,positive,Good Tasting cup o joe
+764,17/01/12 04:00,5,positive,Best of the Tassimos
+765,15/08/12 04:00,5,positive,great coffee - terrible price
+766,11/08/12 04:00,4,neutral,One of the better T-Discs
+767,19/05/12 04:00,3,neutral,Note: Rating both coffee and seller
+768,17/05/12 04:00,5,positive,Kona for Tassimo
+769,30/09/12 04:00,5,positive,Best wafers
+770,02/03/12 04:00,1,negative,Tao of Tea ...!Dont get it
+771,24/05/09 04:00,4,neutral,Perfect Sampler of Milka Chocolate
+772,22/06/12 04:00,5,positive,Dad really liked these.
+773,24/05/12 04:00,4,neutral,Great candy my family loved it
+774,25/06/12 04:00,5,positive,Yummy!
+775,28/09/12 04:00,1,negative,Horrible .. dont buy it
+776,16/02/10 03:00,5,positive,Kleri Tea works great!
+777,17/08/12 04:00,3,neutral,Where are the cranberries?
+778,23/02/12 04:00,5,positive,Our ferret loves this...
+779,15/06/12 04:00,5,positive,Fantastic!
+780,31/08/10 04:00,5,positive,Great little treats
+781,05/02/12 04:00,1,negative,NOT edible!
+782,09/01/10 03:00,3,neutral,speedy shipping
+783,18/07/09 04:00,4,neutral,"My sons 9 & 11 loved making this, as easy enough to do by themselves. With adult supervision any age can do this neat project."
+784,27/12/10 03:00,4,neutral,Spongetastic!
+785,09/12/10 03:00,2,neutral,not as easy as it looks
+786,05/01/10 03:00,1,negative,Not one but twice came broken.
+787,01/12/10 03:00,5,positive,Rudolph Gingerbread House
+788,16/11/10 03:00,4,neutral,Fun to paint
+789,20/11/10 03:00,2,neutral,disappointment
+790,18/11/10 03:00,2,neutral,Cute Item... but expired!
+791,27/11/07 03:00,1,negative,If I could give a rating under one-star...
+792,07/02/10 03:00,1,negative,Horrid
+793,27/04/08 04:00,4,neutral,delicious
+794,13/03/11 03:00,5,positive,I love this tea - to each her own taste buds!
+795,29/09/10 04:00,5,positive,There is none greater.
+796,22/09/10 04:00,5,positive,Caramel chocolate
+797,20/01/12 04:00,5,positive,Chocolate heaven
+798,19/01/12 04:00,5,positive,Heavenly Action
+799,31/12/11 04:00,3,neutral,Great chocolate...
+800,09/09/11 04:00,5,positive,Great item
+801,13/06/10 04:00,5,positive,choclate
+802,22/04/12 04:00,3,neutral,is this serious??? 10 bucks??
+803,04/03/12 04:00,5,positive,Yum!
+804,16/07/11 04:00,3,neutral,"Overpriced, Even on Gold Box"
+805,12/07/11 04:00,3,neutral,Even at $15 seems a little overpriced.
+806,20/07/11 04:00,5,positive,Quick arrival great basket!
+807,03/08/11 04:00,5,positive,Adorable basket-makes nice presentation
+808,18/11/10 03:00,5,positive,Specialty party item
+809,19/04/12 04:00,5,positive,Delicious!
+810,17/01/12 04:00,5,positive,Chocolate - How can you go wrong?
+811,25/12/11 04:00,5,positive,chocolate liquor cups
+812,09/12/11 04:00,5,positive,Scottie
+813,21/01/12 04:00,4,neutral,has a very good flavor
+814,26/04/10 04:00,2,neutral,Odd Fake Flavor - Not Recommended
+815,21/08/12 04:00,3,neutral,"Good sugarless gum, with stronger gum for better bubble blowing than other sugarless gums"
+816,06/08/12 04:00,5,positive,Great Gum
+817,02/01/11 03:00,5,positive,Delicious IMO and.... helps weight loss
+818,06/11/10 03:00,5,positive,ROYAL CANIN COCKER
+819,17/11/11 04:00,5,positive,Perfect for Cockers!
+820,24/08/11 04:00,5,positive,My dog loves this food!
+821,10/06/11 04:00,5,positive,Great deal!
+822,03/05/11 04:00,5,positive,Great food!
+823,19/07/12 04:00,5,positive,Buster Loves this dog food
+824,27/03/12 04:00,4,neutral,Happy Dogs
+825,18/10/11 04:00,5,positive,"Fast and great service,"
+826,22/10/12 04:00,5,positive,GOOD FOOD!
+827,13/10/12 04:00,5,positive,Happy Dog
+828,11/05/09 04:00,5,positive,Great way to order
+829,21/03/10 03:00,5,positive,"Good quality, delivered on time, human edible."
+830,30/03/12 04:00,5,positive,Rave Review for Rolled Oats
+831,07/12/11 04:00,5,positive,Excellent
+832,25/05/10 04:00,1,negative,Very Different taste from the Made in UK or Made in India version.
+833,27/09/10 04:00,1,negative,Not like other countries Cadbury
+834,19/12/07 03:00,5,positive,Great deal on great tea
+835,15/04/10 04:00,5,positive,Best Breakfast Tea ever
+836,03/10/12 04:00,5,positive,great organic tea at a great price
+837,26/09/12 04:00,3,neutral,"Mediocre, but cheap"
+838,30/08/12 04:00,5,positive,Delicious and consistently good quality
+839,15/05/11 04:00,4,neutral,Nice flavorful tea for the purist black tea addict
+840,18/03/11 03:00,5,positive,the best tea
+841,11/03/11 03:00,5,positive,Great Tea
+842,01/04/10 04:00,5,positive,"This is a very fine tasting full lea, a great value!"
+843,01/01/10 03:00,3,neutral,not creamy...
+844,03/02/09 03:00,5,positive,This caramel is fantastic!!!
+845,10/11/08 03:00,5,positive,Great caramels
+846,04/08/08 04:00,5,positive,Where Has This Candy Been?
+847,29/11/08 03:00,1,negative,not for traditional caramel lovers
+848,24/12/11 04:00,4,neutral,soda
+849,29/08/12 04:00,5,positive,Aluminum Free!
+850,03/12/11 04:00,5,positive,This baking soda is the bomb!
+851,11/09/12 04:00,3,neutral,Interesting info about baking soda
+852,10/07/10 04:00,5,positive,"Excellent quality product, fast delivery..."
+853,24/07/11 04:00,5,positive,"Good oatmeal, Im on my second bag"
+854,15/04/11 04:00,5,positive,mm mm oats
+855,27/10/11 04:00,5,positive,Loved the Oats!!
+856,28/07/11 04:00,2,neutral,Funny taste
+857,07/09/08 04:00,4,neutral,awsome
+858,24/01/11 03:00,5,positive,Very Happy with Pocky Sticks
+859,12/01/11 03:00,5,positive,These are great!
+860,12/12/10 03:00,5,positive,I love this snack!
+861,03/09/10 04:00,3,neutral,Chocolate was all melt
+862,30/11/09 03:00,5,positive,This Item Is Awesome!!!!
+863,23/06/11 04:00,5,positive,Great tasting snack...if you get the Japanese Pocky
+864,22/06/11 04:00,5,positive,Great product
+865,31/07/10 04:00,4,neutral,Delicious
+866,05/07/10 04:00,5,positive,"Fun popping-crispy sticks dipped in chocolate, special treat for manga fans, but find local or wait till fall"
+867,03/09/09 04:00,5,positive,Yummy
+868,25/10/12 04:00,2,neutral,Doesnt taste as it should
+869,04/09/12 04:00,5,positive,Pocky!!
+870,07/01/09 03:00,5,positive,Great Buy
+871,31/12/07 03:00,5,positive,Good stuff
+872,27/06/10 04:00,2,neutral,Pocky sticks together
+873,16/06/10 04:00,1,negative,Really wanted to like these...
+874,03/11/08 03:00,5,positive,"Good berry flavor, excellent price."
+875,09/07/08 04:00,2,neutral,The chocolate ones are much better
+876,31/12/10 03:00,1,negative,Something has changed
+877,16/07/07 04:00,5,positive,Good berry flavor
+878,21/06/12 04:00,4,neutral,great taste But size it smaller
+879,21/02/12 04:00,2,neutral,"Cheaper Ingredients, Lowered Quality"
+880,28/12/11 04:00,1,negative,Not a Fan
+881,29/09/11 04:00,4,neutral,Perfect Size
+882,23/08/11 04:00,4,neutral,Pretty good overall
+883,04/12/10 03:00,5,positive,My child LOVES them!
+884,26/05/10 04:00,4,neutral,small but good
+885,15/03/10 03:00,5,positive,You cant go wrong
+886,12/03/10 03:00,4,neutral,"Yummy, but small..."
+887,26/02/10 03:00,3,neutral,Be Very Berry Wary.
+888,19/05/09 04:00,5,positive,Highly recomended!
+889,27/02/09 03:00,5,positive,Very Berry Snack Bars
+890,16/07/08 04:00,4,neutral,Great snack
+891,30/03/08 04:00,5,positive,Great bars for gluten-free diets!
+892,23/06/11 04:00,1,negative,ABSOLUTELY VILE!!!
+893,10/01/12 04:00,5,positive,Fantastic Coffee!!  Best Ive ever had
+894,17/09/10 04:00,5,positive,Strictly the Best!
+895,16/09/10 04:00,5,positive,Best Coffee!
+896,29/10/10 04:00,4,neutral,Beautiful presentation ...and a pretty good tea too!
+897,27/01/08 03:00,2,neutral,Break Easily
+898,29/12/07 03:00,4,neutral,Wonderful Tea!
+899,31/01/11 03:00,5,positive,I cant take the smell
+900,30/07/09 04:00,3,neutral,"Our twins love this one. With the subscription, the price is fair"
+901,16/10/09 04:00,4,neutral,Dessert to Them.  But is it Nutritional Enough?
+902,16/10/09 04:00,3,neutral,Repeated deliveries of broken jars.  Great product though
+903,13/10/10 04:00,4,neutral,"Good flavor, too runny though"
+904,16/10/09 04:00,3,neutral,12% Protein and 50% Vitamin A
+905,23/05/12 04:00,5,positive,Baby Lilly says 2 thumbs up!
+906,19/12/11 04:00,5,positive,Earths Best Rice & Lentil dinner
+907,13/11/11 04:00,1,negative,Plastic in the food!
+908,14/09/11 04:00,4,neutral,My babys favorite 2nd stage food so far and great for constipation!
+909,01/09/11 04:00,5,positive,Sons Favorite Dinner!!!
+910,02/06/11 04:00,5,positive,No Issues
+911,09/04/11 04:00,3,neutral,Too thin
+912,16/11/10 03:00,5,positive,A great place to start
+913,25/10/10 04:00,4,neutral,good for you but not best flavor
+914,13/09/10 04:00,5,positive,A favorite!
+915,12/07/10 04:00,1,negative,Runny and odd-tasting
+916,24/06/10 04:00,3,neutral,Too runny...
+917,15/10/12 04:00,4,neutral,"Great taste for a picky baby, but very thin compared to others"
+918,19/09/12 04:00,5,positive,Great stuff
+919,05/09/12 04:00,5,positive,Son loves it
+920,06/07/12 04:00,5,positive,Love it
+921,04/07/12 04:00,1,negative,FOUND SHREDDED PLASTIC IN THE BABY FOOD!!!!
+922,17/05/12 04:00,5,positive,My son loves it!
+923,08/10/11 04:00,3,neutral,Meh.  My daughter eats most everything else... this isnt her thing.
+924,14/09/11 04:00,3,neutral,Not as yummy as Earths Bests other flavors
+925,01/09/11 04:00,5,positive,Sons 2nd Favorite Dish
+926,08/03/11 03:00,1,negative,Had to toss 9 out of 12 jars
+927,24/02/11 03:00,5,positive,One of our favorites
+928,10/02/11 03:00,4,neutral,Our Baby Likes it
+929,10/02/11 03:00,5,positive,Our Babys Favorite Dinner
+930,29/01/11 03:00,4,neutral,My daughters favorite jarred food
+931,01/01/11 03:00,5,positive,yum
+932,29/12/10 03:00,5,positive,the only jarred baby food my son ate
+933,02/12/10 03:00,3,neutral,A little more watery than other 2nd foods for EB
+934,08/10/10 04:00,5,positive,50 calories of yumminess
+935,05/04/10 04:00,5,positive,Organic and tasty.
+936,11/01/10 03:00,5,positive,One of my sons favorites
+937,05/01/10 03:00,5,positive,Great
+938,11/11/09 03:00,5,positive,They make the best baby food.
+939,04/08/09 04:00,5,positive,A favorite
+940,06/07/09 04:00,5,positive,Geat Product
+941,10/07/11 04:00,1,negative,the garbanzo beans in it give horrible gas
+942,09/01/11 03:00,2,neutral,Baby didnt like it
+943,26/04/09 04:00,5,positive,My babys favorite dinner
+944,07/08/11 04:00,1,negative,"Baby loves it, but there is plastic in it"
+945,13/10/10 04:00,5,positive,Baby likes this one
+946,05/04/10 04:00,5,positive,Organic and Tasty
+947,28/10/11 04:00,4,neutral,My baby liked it
+948,06/04/11 04:00,1,negative,moms (and dads) beware of plastic in the food
+949,05/08/12 04:00,4,neutral,Allday Energy
+950,03/04/07 04:00,5,positive,The best!
+951,22/01/10 03:00,4,neutral,Tasty Fruit
+952,21/01/10 03:00,5,positive,Beautiful fresh and it came easrly!v Yey!!
+953,22/12/09 03:00,5,positive,"Fresh Fruit, Dark Chocolate"
+954,10/06/10 04:00,5,positive,Sassafras Tea Bags
+955,04/03/11 03:00,4,neutral,sassafrass tea
+956,02/09/09 04:00,4,neutral,Good tasten tea.
+957,15/01/12 04:00,5,positive,hard to find tea
+958,24/05/11 04:00,5,positive,Better Taste Than I Expected
+959,30/01/12 04:00,5,positive,lovely!
+960,18/09/12 04:00,1,negative,K
+961,30/05/12 04:00,5,positive,Great product.
+962,26/04/12 04:00,2,neutral,Sass Tea
+963,04/07/09 04:00,2,neutral,The most awful taste
+964,02/08/09 04:00,2,neutral,"These are good, but ..."
+965,16/10/12 04:00,5,positive,Great product!
+966,07/09/12 04:00,3,neutral,Great Paste BUT Way Overpriced like 3x more
+967,31/01/12 04:00,5,positive,so easy to use
+968,12/08/12 04:00,1,negative,OMG DO NOT BUY!!!
+969,02/12/08 03:00,5,positive,WONDERFUL gravy!
+970,06/12/09 03:00,5,positive,YEEEEE HAWWW!
+971,07/10/07 04:00,5,positive,Best white gravy !
+972,15/08/09 04:00,5,positive,Pioneer Gravy is GREAT!
+973,08/03/07 03:00,5,positive,Eco sugar
+974,09/02/10 03:00,5,positive,More expensive online
+975,14/11/07 03:00,4,neutral,Very Convenient and far better than instant coffee
+976,31/05/09 04:00,5,positive,No-Pot Fresh Coffee
+977,17/06/07 04:00,4,neutral,Simple. Convenient
+978,29/11/09 03:00,5,positive,Brews an excellent cup of coffee quickly and easily
+979,24/09/09 04:00,5,positive,Very Convenient
+980,12/09/09 04:00,5,positive,Great taste
+981,12/06/07 04:00,5,positive,DELISH!!!!
+982,16/02/11 03:00,5,positive,new to rooibos tea
+983,08/07/12 04:00,5,positive,Tasted better than loose leaf rooibos
+984,04/01/12 04:00,5,positive,Best matcha quality and price
+985,06/03/12 04:00,5,positive,The Best
+986,09/06/11 04:00,5,positive,"Moores Marinade, Gluten, low sodium and MSG Free!"
+987,04/07/11 04:00,5,positive,Great Tasting Diet Tea with all Natural Ingredients
+988,14/01/12 04:00,5,positive,Awesome Sauce
+989,20/12/11 04:00,5,positive,love this hot sauce
+990,19/12/11 04:00,5,positive,Great hot sauce!
+991,16/12/11 04:00,5,positive,Love This Stuff
+992,13/12/11 04:00,5,positive,Best sauce around
+993,13/12/11 04:00,5,positive,Tasty hot sauce!
+994,13/12/11 04:00,5,positive,Best all around hot sauce
+995,13/12/11 04:00,5,positive,best hot sauce around
+996,16/03/12 04:00,5,positive,Hot & Flavorful
+997,02/02/12 04:00,5,positive,Great Hot Sauce and people who run it!
+998,19/12/11 04:00,5,positive,this sauce is the shiznit
+999,04/05/12 04:00,1,negative,Not Hot
+1000,22/03/12 04:00,2,neutral,"Not hot, not habanero"
