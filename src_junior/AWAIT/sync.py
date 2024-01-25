@@ -35,5 +35,5 @@ def run_test(n_requests: int) -> float:
         return time.time() - ts
 
 if __name__ == "__main__":
-    t = run_test(n_requests=100)
+    t = run_test(n_requests=10)
     print(f"Time taken: {t} seconds")
