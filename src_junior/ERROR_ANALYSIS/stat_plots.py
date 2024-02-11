@@ -44,8 +44,3 @@ def xy_scale_location(y_true, y_pred):
     y_axis = root_std_residuals
 
     return x_axis, y_axis
-
-dist = np.linspace(0, 1, 100, endpoint=False)
-percs = norm.ppf(dist)
-print(norm.ppf(dist))
-print(dist[98] - dist[2])
