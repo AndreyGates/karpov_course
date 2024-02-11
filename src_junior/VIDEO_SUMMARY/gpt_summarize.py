@@ -2,8 +2,6 @@
 from openai import OpenAI
 import httpx
 
-OPENAI_API_KEY="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"
-
 def summary_prompt(input_text: str) -> str:
     """
     Build prompt using input text of the video.
